@@ -19,13 +19,14 @@
 
 <h4 align="center">Languages</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,typescript,javascript,haskell,python,go,java,kotlin,scala,lua&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=rust,go,typescript,javascript,haskell,ruby,python,java,kotlin,lua&theme=dark" alt="Languages" />
 </p>
 
 <h4 align="center">Tools</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,blender,unreal,robloxstudio&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,blender,unreal,robloxstudio,vscode,neovim,jetbrains,docker,dockercompose,githubactions,digitalocean,vercel,postgres,actix,rocket,fastapi,nextjs,eslint,prettier,prometheus,godot,trello,slack,discord&theme=dark" alt="Tools" />
 </p>
+
 
 <h4 align="center">Systems</h4>
 <p align="center">
