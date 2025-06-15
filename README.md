@@ -24,8 +24,9 @@
 
 <h4 align="center">Tools</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,blender,unreal,robloxstudio,vscode,neovim,jetbrains,docker,dockercompose,githubactions,digitalocean,vercel,postgres,actix,rocket,fastapi,nextjs,eslint,prettier,prometheus,godot,trello,slack,discord&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=docker,cloudflare,vercel,prometheus,redhat,linux,apple,bash,powershell,github,git,gitlab,idea,pycharm,webstorm,vscode,neovim,robloxstudio,nextjs,angular,react,nodejs,npm,discordjs,bots,discord,notion,stackoverflow&theme=dark" alt="Tools" />
 </p>
+
 
 
 <h4 align="center">Systems</h4>
