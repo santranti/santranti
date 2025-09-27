@@ -17,9 +17,9 @@
 
 ### Tech Stack
 
-<h4 align="center">Languages</h4>
+<h4 align="center">Languages (in order of proficiency)</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,go,typescript,javascript,haskell,ruby,java,kotlin,lua&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=rust,go,typescript,javascript,lua,haskell,ruby,java,kotlin&theme=dark" alt="Languages" />
 </p>
 
 <h4 align="center">Tools</h4>
