@@ -1,45 +1,45 @@
-# santranti
+# Software Engineer & Researcher
 
-```
-Software Engineer
-```
 
 ---
 
-### Core Focus
-* **Current:** Head of **Stacklane** • Developing **Azazel**
-* **Past:** ARC-20
-* **Interests:** Systems programming, aerospace simulation, embedded tech, kernel-level development
+#### What I'm doing right now: 
+
+Developing **Azazel**, my own game. Working at ud2.sh. Working also on Checker, my own kernel-level anti-cheat for Roblox Clans.
+
+#### Past things I did: 
+
+ARC-20, Adalea
+
+#### What I'm interested in: 
+
+Machine Learning research and competitive shooters
 
 ---
 
-### Technical Stack
+Languages I know:
 
-#### Languages
-`Go` • `TypeScript` • `Rust` •  `Lua` • `Haskell` • `Ruby` • `Java`
+`Rust`, `Go`, `TypeScript`, `Lua`, `Haskell`
 
-#### Specialization
-* **Systems:** Enterprise architecture, automated infrastructure
-* **Platforms:** Windows, macOS
+---
 
-#### Ecosystem & Tools
+#### My specializations: 
+
+Kernel development, enterprise/startup architecture, enterprise/consumer software
+
+#### Platforms I use: 
+
+MacOS, Debian, Ubuntu and Windows.
+
+#### My tools:
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,kubernetes,docker,supabase,mysql,wasm,fastapi,next,react,htmx,jquery,vercel,tensorflow&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,kubernetes,docker,wasm,dotnet,visualstudio,next,react,htmx,vercel,tensorflow&theme=dark" alt="Tools" />
 </p>
 
----
 
-### Featured Projects
+#### Metrics:
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **Azazel** | Paranormal research blacksite with fascinating lore. | TS, Rojo, Roblox-TS, Luau |
-| **ARC-20** | SCP Foundation-inspired tactical/lore environment. | Luau |
-| **Provincia Aegypti** | Historical Roman-era simulation. | Luau |
-
----
-
-### Metrics
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santranti&theme=tokyonight" height="150" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=santranti&theme=tokyonight" height="150" />
@@ -51,11 +51,10 @@ Software Engineer
 
 ---
 
-### Contact & Footprint
+#### Contact:
 
 * **Email:** hello@santranti.dev
-* **Profiles:** [Portfolio](https://santranti.dev) • [Codeberg](https://codeberg.org/nplyx) • [GitLab](https://gitlab.com/santranti) • [StackOverflow](https://stackoverflow.com/users/22624081/santranti)
-
+* [Portfolio](https://santranti.dev)
 <br />
 
 ![](https://komarev.com/ghpvc/?username=santranti&style=flat-square&color=blue)
